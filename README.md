@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @NalindaGamaarachchi
-- 👀 I’m interested in innovation
-- 🌱 I’m currently learning NSBM
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me nalindaavishka@icloud.com
 
 <!---
